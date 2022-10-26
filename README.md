@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ForxDeven
 - 👀 I’m interested in programming & data science
 - 🌱 I’m currently learning data cleaning
-- 📫 alialtuntas.3@hotmail.com
 
 <!---
 ForxDeven/ForxDeven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
