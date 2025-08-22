@@ -3,7 +3,7 @@
 ## 👤 About Me
 I'm a passionate programmer and data science enthusiast, always eager to learn new technologies and tackle interesting challenges. I love working with data, building software, and collaborating with the developer community.
 
-- 🔭 I'm currently developing an ERP app
+- 🏗️ I'm currently developing an ERP app
 - 🌱 I enjoy solving problems with code and data
 - 💬 Ask me about programming, data analysis, or anything tech!
 
