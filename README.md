@@ -3,7 +3,6 @@
 ## 👤 About Me
 I'm a passionate programmer and data science enthusiast, always eager to learn new technologies and tackle interesting challenges. I love working with data, building software, and collaborating with the developer community.
 
-- 🏗️ I'm currently developing an ERP app
 - 🌱 I enjoy solving problems with code and data
 - 💬 Ask me about programming, data analysis, or anything tech!
 
@@ -14,7 +13,6 @@ I'm a passionate programmer and data science enthusiast, always eager to learn n
 
 ## 📫 Contact Me
 - **Email:** alialtuntas.stat@gmail.com  
-- **Email:** alialtuntas@rofimo.com
 
 ## 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/ali-altuntas/)
