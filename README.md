@@ -12,7 +12,8 @@ I'm a passionate programmer and data science enthusiast, always eager to learn n
 - **Tools:** Git, VS Code, Jupyter Notebook
 
 ## 📫 Contact Me
-- **Email:** alialtuntas.stat@gmail.com  
+- **Email:** alialtuntas.stat@gmail.com
+- **Email:** alialtuntas@talossavunma.com  
 
 ## 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/ali-altuntas/)
