@@ -19,7 +19,6 @@ I'm a passionate programmer and data science enthusiast, always eager to learn n
 - [LinkedIn](https://www.linkedin.com/in/ali-altuntas/)
 - [Medium](https://medium.com/@alialtuntas)
 - [Instagram](https://www.instagram.com/alialtuntas.3/)
-- [Website](https://www.alialtuntas.com/)
 
 <!---
 ForxDeven/ForxDeven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
